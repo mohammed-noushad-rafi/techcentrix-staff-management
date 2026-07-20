@@ -29,3 +29,7 @@ media/
 .idea/
 .vscode/
 *.swp
+__pycache__/
+*.pyc
+Procfile
+runtime.txt
